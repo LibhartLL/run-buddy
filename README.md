@@ -1,5 +1,6 @@
 # Run Buddy, Inc.
 
+
 ## Purpose
 A website that offers fitness training services. 
 
@@ -11,6 +12,8 @@ A website that offers fitness training services.
 https://libhartll.github.io/run-buddy/
 
 ## Contribution
+
 Made with ❤️ by LibhartLL
 
 ### ©️2019 Run Buddy, Inc 
+
